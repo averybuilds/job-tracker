@@ -10,7 +10,7 @@ I lose track of applications once there are more than a handful. Every Monday I 
 
 You need nothing installed.
 
-1. Open the [live page]([live address]).
+1. Open the [live page](https://averybuilds.github.io/job-tracker/).
 2. The Monday report shows on the page, with the counts and the follow-up list under it.
 
 Or click "Code", then "Download ZIP", unzip the folder, and open `index.html` in your browser.
